@@ -9,23 +9,23 @@ This project is basically an archive of example queries for Criminal IP searches
 
 ## Table of Contents
 
-- [Location 🌍](#location-)
-- [ISP (Internet Service Provider) 📶](#isp-internet-service-provider-)
-- [Organization 🏢](#organization-)
-- [Date Filters 📅](#date-filters-)
-- [Domain 🌐](#domain-)
-- [Scanner-Related Search 🔍](#scanner-related-search-)
-- [Server-Related Search 🖥️](#server-related-search-)
-- [SSL-Related Search 🔒](#ssl-related-search-)
-- [Vulnerability Search 🦠](#vulnerability-search-)
-- [Web-Related Search 🌐](#web-related-search-)
-- [Status Code Search 🛠️](#status-code-search-)
-- [Technology Stack Search ⚙️](#technology-stack-search-)
-- [Combined Search 🔀](#combined-search-)
+- [Location 🌍](##location-)
+- [ISP (Internet Service Provider) 📶](##isp-internet-service-provider-)
+- [Organization 🏢](##organization-)
+- [Date Filters 📅](##date-filters-)
+- [Domain 🌐](##domain-)
+- [Scanner-Related Search 🔍](##scanner-related-search-)
+- [Server-Related Search 🖥️](##server-related-search-)
+- [SSL-Related Search 🔒](##ssl-related-search-)
+- [Vulnerability Search 🦠](##vulnerability-search-)
+- [Web-Related Search 🌐](##web-related-search-)
+- [Status Code Search 🛠️](##status-code-search-)
+- [Technology Stack Search ⚙️](##technology-stack-search-)
+- [Combined Search 🔀](##combined-search-)
 
 ---
 
-- **Location 🌍**
+## **Location 🌍**
 
 |   | **Description**            | **Examples**       |
 |---|----------------------------|--------------------|
@@ -34,7 +34,7 @@ This project is basically an archive of example queries for Criminal IP searches
 
 ---
 
-- **ISP (Internet Service Provider) 📶**
+## **ISP (Internet Service Provider) 📶**
 
 |   | **Description**            | **Examples**     |
 |---|----------------------------|------------------|
@@ -42,7 +42,7 @@ This project is basically an archive of example queries for Criminal IP searches
 
 ---
 
-- **Organization 🏢**
+## **Organization 🏢**
 
 |   | **Description**                    | **Examples** |
 |---|------------------------------------|--------------|
@@ -50,7 +50,7 @@ This project is basically an archive of example queries for Criminal IP searches
 
 ---
 
-- **Date Filters 📅**
+## **Date Filters 📅**
 
 |   | **Description**                        | **Examples**             |
 |---|----------------------------------------|--------------------------|
@@ -58,7 +58,7 @@ This project is basically an archive of example queries for Criminal IP searches
 
 ---
 
-- **Domain 🌐**
+## **Domain 🌐**
 
 |   | **Description**                | **Examples**           |
 |---|--------------------------------|------------------------|
@@ -66,7 +66,7 @@ This project is basically an archive of example queries for Criminal IP searches
 
 ---
 
-- **Scanner-Related Search 🔍**
+## **Scanner-Related Search 🔍**
 
 |   | **Description**                 | **Examples**        |
 |---|---------------------------------|---------------------|
@@ -75,7 +75,7 @@ This project is basically an archive of example queries for Criminal IP searches
 
 ---
 
-- **Server-Related Search 🖥️**
+## **Server-Related Search 🖥️**
 
 |   | **Description**                  | **Examples**               |
 |---|----------------------------------|----------------------------|
@@ -90,7 +90,7 @@ This project is basically an archive of example queries for Criminal IP searches
 
 ---
 
-- **SSL-Related Search 🔒**
+## **SSL-Related Search 🔒**
 
 |   | **Description**                         | **Examples**                            |
 |---|-----------------------------------------|-----------------------------------------|
@@ -102,7 +102,7 @@ This project is basically an archive of example queries for Criminal IP searches
 
 ---
 
-- **Vulnerability Search 🦠**
+## **Vulnerability Search 🦠**
 
 |   | **Description**                       | **Examples**                                    |
 |---|---------------------------------------|-------------------------------------------------|
@@ -112,7 +112,7 @@ This project is basically an archive of example queries for Criminal IP searches
 
 ---
 
-- **Web-Related Search 🌐**
+## **Web-Related Search 🌐**
 
 |   | **Description**                      | **Examples**                              |
 |---|--------------------------------------|-------------------------------------------|
@@ -124,7 +124,7 @@ This project is basically an archive of example queries for Criminal IP searches
 
 ---
 
-- **Status Code Search 🛠️**
+## **Status Code Search 🛠️**
 
 |   | **Description**                          | **Examples**     |
 |---|------------------------------------------|------------------|
@@ -132,7 +132,7 @@ This project is basically an archive of example queries for Criminal IP searches
 
 ---
 
-- **Technology Stack Search ⚙️**
+## **Technology Stack Search ⚙️**
 
 |   | **Description**                  | **Examples**     |
 |---|----------------------------------|------------------|
@@ -140,7 +140,7 @@ This project is basically an archive of example queries for Criminal IP searches
 
 ---
 
-- **Combined Search 🔀**
+## **Combined Search 🔀**
 
 |   | **Description**                          | **Examples**                   |
 |---|------------------------------------------|--------------------------------|
