@@ -9,19 +9,19 @@ This project is basically an archive of example queries for Criminal IP searches
 
 ## Table of Contents
 
-- [Location 🌍](##location-)
-- [ISP (Internet Service Provider) 📶](##isp-internet-service-provider-)
-- [Organization 🏢](##organization-)
-- [Date Filters 📅](##date-filters-)
-- [Domain 🌐](##domain-)
-- [Scanner-Related Search 🔍](##scanner-related-search-)
-- [Server-Related Search 🖥️](##server-related-search-)
-- [SSL-Related Search 🔒](##ssl-related-search-)
-- [Vulnerability Search 🦠](##vulnerability-search-)
-- [Web-Related Search 🌐](##web-related-search-)
-- [Status Code Search 🛠️](##status-code-search-)
-- [Technology Stack Search ⚙️](##technology-stack-search-)
-- [Combined Search 🔀](##combined-search-)
+- [Location 🌍](#location-)
+- [ISP (Internet Service Provider) 📶](#isp-internet-service-provider-)
+- [Organization 🏢](#organization-)
+- [Date Filters 📅](#date-filters-)
+- [Domain 🌐](#domain-)
+- [Scanner-Related Search 🔍](#scanner-related-search-)
+- [Server-Related Search 🖥️](#server-related-search-)
+- [SSL-Related Search 🔒](#ssl-related-search-)
+- [Vulnerability Search 🦠](#vulnerability-search-)
+- [Web-Related Search 🌐](#web-related-search-)
+- [Status Code Search 🛠️](#status-code-search-)
+- [Technology Stack Search ⚙️](#technology-stack-search-)
+- [Combined Search 🔀](#combined-search-)
 
 ---
 
